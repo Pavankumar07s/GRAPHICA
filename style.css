@@ -98,6 +98,7 @@ html,body{
     font-family: 'Russo One', sans-serif;
     font-size: 70px;
     color: aliceblue;
+    mix-blend-mode: difference;
 }
 .main #front #workingArea #right #textarea{
     width: 18rem;
